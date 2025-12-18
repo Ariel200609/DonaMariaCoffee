@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Dancing+Script:wght@600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos base opcionales para asegurar el fondo */
+body {
+  background-color: #FFEBD8;
+  color: #59382F;
+}
